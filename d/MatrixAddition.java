@@ -1,3 +1,4 @@
+package d;
 import java.util.Scanner;
 
 public class MatrixAddition {
